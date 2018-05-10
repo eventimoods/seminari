@@ -272,7 +272,7 @@
             }
           },
           "_name": "map1",
-          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Mappa\" name=\"googleMap\" place-id=\"ChIJ31GTk67GhkcRPw6Nl8LeRdQ\" value=\"Milano, piazza del duomo\n\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Mappa\" name=\"googleMap\" place-id=\"ChIJQU0Z6nTBhkcRa0zIpot2RF8\" value=\"Via Masaccio 19,\n20149 MILANO\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "qREz8Lb32G",
           "_anchor": "map1-15",
           "_protectedParams": [],
