@@ -294,7 +294,7 @@
               "margin-bottom": "2rem"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#7f0e11"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
@@ -311,6 +311,9 @@
             ".input-group-btn": {
               "display": "block",
               "text-align": "center"
+            },
+            "H2": {
+              "color": "#cbaf74"
             }
           },
           "_name": "form1",
