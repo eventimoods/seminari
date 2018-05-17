@@ -3,7 +3,7 @@
     "name": "Seminario Moods",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 55,
+    "uniqCompNum": 56,
     "versionPublish": "4.6.3",
     "theme": {
       "name": "mobirise4",
@@ -405,6 +405,30 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text B": {
+              "color": "#7f0e11"
+            },
+            ".mbr-text": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Superiore\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Inferiore\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Colore di sfondo\" name=\"bgColor\" value=\"#cbaf74\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>La nostra rete vendita provvederà in ogni caso a consegnarvi un invito personale in forma cartacea.</b></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qSk6qv7TOb",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-1j"
         },
         {
           "_styles": {
