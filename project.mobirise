@@ -25,7 +25,7 @@
         "display7Font": "EB Garamond",
         "display7Size": "1.6",
         "display4Font": "Rubik",
-        "display4Size": "1.4",
+        "display4Size": "1.8",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
@@ -136,6 +136,9 @@
             },
             "LABEL": {
               "color": "#cbaf74"
+            },
+            ".form-group": {
+              "padding": "10px"
             }
           },
           "_name": "form1",
