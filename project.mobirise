@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 61,
-    "versionPublish": "4.6.3",
+    "versionPublish": "4.8.8",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,34 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "siteFonts": [
+      {
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
+        "name": "Rubik",
+        "css": "'Rubik', sans-serif"
+      },
+      {
+        "css": "'EB Garamond', serif",
+        "name": "EB Garamond",
+        "url": "https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i"
+      },
+      {
+        "css": "'Anton', sans-serif",
+        "name": "Anton",
+        "url": "https://fonts.googleapis.com/css?family=Anton:400"
+      },
+      {
+        "css": "'Archivo Black', sans-serif",
+        "name": "Archivo Black",
+        "url": "https://fonts.googleapis.com/css?family=Archivo+Black:400"
+      },
+      {
+        "css": "'Oswald', sans-serif",
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+      }
+    ]
   },
   "pages": {
     "index.html": {
