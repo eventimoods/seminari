@@ -167,6 +167,9 @@
             },
             ".form-group": {
               "padding": "20px"
+            },
+            ".form-control-label": {
+              "margin-top": "20px"
             }
           },
           "_name": "form1",
