@@ -1405,12 +1405,12 @@ body {
   }
 }
 .cid-qRF03udd3v {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: #7f0e11;
 }
 .cid-qRF03udd3v .title {
-  margin-bottom: 2rem;
+  margin-bottom: 10px;
 }
 .cid-qRF03udd3v .mbr-section-subtitle {
   color: #ffffff;
@@ -1430,6 +1430,7 @@ body {
 .cid-qRF03udd3v .input-group-btn {
   display: block;
   text-align: center;
+  padding-bottom: 50px;
 }
 .cid-qRF03udd3v H2 {
   color: #cbaf74;
@@ -1438,7 +1439,7 @@ body {
   color: #cbaf74;
 }
 .cid-qRF03udd3v .form-group {
-  padding: 10px;
+  padding: 20px;
 }
 .cid-qSpmjvxx8R {
   padding-top: 15px;
